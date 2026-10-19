@@ -12,22 +12,33 @@ The screenshots below are captured from the actual gameplay demonstration. They 
 
 ### 📸 Project in Action
 
-<table>
-  <tr>
-    <td align="center"><img src="assets/screenshots/gameplay-01.jpg" alt="Gesture control setup and game window" width="250"/><br/><sub>1. Webcam and game setup</sub></td>
-    <td align="center"><img src="assets/screenshots/gameplay-02.jpg" alt="Gesture detection while playing" width="250"/><br/><sub>2. Real-time gesture detection</sub></td>
-    <td align="center"><img src="assets/screenshots/gameplay-03.jpg" alt="Hand gesture controlling gameplay" width="250"/><br/><sub>3. Hand gesture input</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/screenshots/gameplay-04.jpg" alt="Hill Climb Racing in action" width="250"/><br/><sub>4. Gameplay in progress</sub></td>
-    <td align="center"><img src="assets/screenshots/gameplay-05.jpg" alt="Gesture control during a game run" width="250"/><br/><sub>5. Gesture-controlled driving</sub></td>
-    <td align="center"><img src="assets/screenshots/gameplay-06.jpg" alt="Later gameplay with score visible" width="250"/><br/><sub>6. Gameplay result</sub></td>
-  </tr>
-</table>
+#### 1. Webcam and game setup
+
+<img src="assets/screenshots/gameplay-01.jpg" alt="Gesture control setup and game window" width="800"/>
+
+#### 2. Real-time gesture detection
+
+<img src="assets/screenshots/gameplay-02.jpg" alt="Gesture detection while playing" width="800"/>
+
+#### 3. Hand gesture input
+
+<img src="assets/screenshots/gameplay-03.jpg" alt="Hand gesture controlling gameplay" width="800"/>
+
+#### 4. Gameplay in progress
+
+<img src="assets/screenshots/gameplay-04.jpg" alt="Hill Climb Racing in action" width="800"/>
+
+#### 5. Gesture-controlled driving
+
+<img src="assets/screenshots/gameplay-05.jpg" alt="Gesture control during a game run" width="800"/>
+
+#### 6. Gameplay result
+
+<img src="assets/screenshots/gameplay-06.jpg" alt="Later gameplay with score visible" width="800"/>
 
 ### ▶️ Watch the Full Demo
 
-[**Open the full gameplay video (MP4)**](demo/gameplay_demo.mp4)
+[**Open or download the full gameplay video (MP4)**](https://github.com/Sashank096/Hill-Climb-Racing-Gesture-Control/blob/main/demo/gameplay_demo.mp4)
 
 *The full video shows the live camera feed with the detected hand, finger count, and action (GAS / BRAKE / NEUTRAL) alongside the game running in Chrome.*
 
